@@ -46,7 +46,7 @@ Breaking out multi-genre strings showed that complex strategy, RPG, and survival
 
 ---
 
-## 🚀 How to Run It
+## How to Run It
 1. Clone this repository.
 2. Grab `steam.csv` from Kaggle (Steam Store Games dataset).
 3. Run the script in **pgAdmin 4** or straight from `psql` to create the table, import the CSV, and run the queries.
